@@ -30,3 +30,6 @@ The General Mobile GM 22 Plus (codenamed _"g512"_) is a mid-range ODM smartphone
 | Rear camera 2           | 5 MP                                                        |
 | Rear camera 3           | 2 MP                                                        |
 | Front camera            | 8 MP                                                        |
+
+## Device photo
+![g512](https://resim.epey.com/798990/b_general-mobile-gm-22-plus-2.png)
